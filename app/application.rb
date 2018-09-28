@@ -23,7 +23,7 @@ class Application
           resp.write "#{item}\n"
     end
   end
-
+end
     resp.finish
   end
 
